@@ -32,3 +32,12 @@
 + [Jupyter](https://jupyter.org/install)
 + [VSCODE](https://code.visualstudio.com/)
 + [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
+
+## 배열 문제
++ 1. 아래의 그림과 같이 1차원 배열 `[1,2,3,4,5,]`에서 각각 10을 곱하여 2차원 배열로 만드시오.
+
+<img src="./images/arr1.png" width="400"></img>
+
++ 2. 아래의 그림과 같이 2차원 배열에서 각 열에 대한 목록을 출력하시오.
+
+<img src="./images/arr2.png" width="400"></img>
