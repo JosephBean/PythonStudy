@@ -41,3 +41,8 @@
 + 2. 아래의 그림과 같이 2차원 배열에서 각 열에 대한 목록을 출력하시오.
 
 <img src="./images/arr2.png" width="400"></img>
+
+## NumPy 설치 (다차원 분석을 위한 라이버리)
+```cmd
+pip install numpy
+```
