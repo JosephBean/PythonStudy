@@ -46,3 +46,8 @@
 ```cmd
 pip install numpy
 ```
+
+## Pandas 설치
+```cmd
+pip install pandas
+```
