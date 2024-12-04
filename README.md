@@ -82,3 +82,7 @@ pip install selenium
 + 단점, 속도가 다른 웹 크롤링 보다 느림
 + 장점, Python 뿐만 아니고 다른 언어에서도 개발 가능
 + [Selenium 공식문서](https://www.selenium.dev/)
+
+## 예제 데이터 다운로드 (정부3.0 공공데이터포털)
++ 서대문구 데이터 다운로드
++ [의규수거함 위치 목록](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%84%9C%EB%8C%80%EB%AC%B8%EA%B5%AC&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
